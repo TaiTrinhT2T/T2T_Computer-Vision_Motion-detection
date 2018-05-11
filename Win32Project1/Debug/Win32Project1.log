@@ -1,0 +1,3 @@
+﻿  Test.cpp
+f:\hoc_tap\2018-2019\do an tot nghiep\2018\code do an tot nghiep\trunen\win32project1\win32project1\test.cpp(12): warning C4129: 'p': unrecognized character escape sequence
+opencv_world341d.lib(opencv_world341d.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'X86'

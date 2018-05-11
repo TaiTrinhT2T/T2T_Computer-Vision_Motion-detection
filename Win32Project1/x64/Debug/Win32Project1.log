@@ -1,0 +1,14 @@
+﻿  Source.cpp
+f:\hoc_tap\2018-2019\do an tot nghiep\2018\code do an tot nghiep\trunen\win32project1\win32project1\source.cpp(55): warning C4101: 'valueColor': unreferenced local variable
+f:\hoc_tap\2018-2019\do an tot nghiep\2018\code do an tot nghiep\trunen\win32project1\win32project1\source.cpp(118): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+f:\hoc_tap\2018-2019\do an tot nghiep\2018\code do an tot nghiep\trunen\win32project1\win32project1\source.cpp(91): warning C4101: 'm': unreferenced local variable
+f:\hoc_tap\2018-2019\do an tot nghiep\2018\code do an tot nghiep\trunen\win32project1\win32project1\source.cpp(91): warning C4101: 'valueColor': unreferenced local variable
+f:\hoc_tap\2018-2019\do an tot nghiep\2018\code do an tot nghiep\trunen\win32project1\win32project1\source.cpp(135): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Microsoft (R) Incremental Linker Version 14.00.24215.1
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  "/OUT:F:\Hoc_Tap\2018-2019\Do an tot nghiep\2018\Code do an tot nghiep\TruNen\Win32Project1\x64\Debug\Win32Project1.exe" /INCREMENTAL:NO /LIBPATH:C:\opencv\build\x64\vc14\lib opencv_world341.lib opencv_world341d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST "/MANIFESTUAC:level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG "/PDB:F:\Hoc_Tap\2018-2019\Do an tot nghiep\2018\Code do an tot nghiep\TruNen\Win32Project1\x64\Debug\Win32Project1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT "/IMPLIB:F:\Hoc_Tap\2018-2019\Do an tot nghiep\2018\Code do an tot nghiep\TruNen\Win32Project1\x64\Debug\Win32Project1.lib" /MACHINE:X64 x64\Debug\Source.obj 
+  x64\Debug\Test.obj 
+Source.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  Win32Project1.vcxproj -> F:\Hoc_Tap\2018-2019\Do an tot nghiep\2018\Code do an tot nghiep\TruNen\Win32Project1\x64\Debug\Win32Project1.exe
+  Win32Project1.vcxproj -> F:\Hoc_Tap\2018-2019\Do an tot nghiep\2018\Code do an tot nghiep\TruNen\Win32Project1\x64\Debug\Win32Project1.pdb (Full PDB)

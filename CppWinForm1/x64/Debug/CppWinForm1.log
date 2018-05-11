@@ -1,0 +1,27 @@
+﻿  MyForm.cpp
+f:\hoc_tap\projectgithub\t2t_computer-vision_motion-detection\cppwinform1\MyForm.h(64): warning C4101: 'valueColor': unreferenced local variable
+f:\hoc_tap\projectgithub\t2t_computer-vision_motion-detection\cppwinform1\MyForm.h(110): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+f:\hoc_tap\projectgithub\t2t_computer-vision_motion-detection\cppwinform1\MyForm.h(90): warning C4101: 'm': unreferenced local variable
+f:\hoc_tap\projectgithub\t2t_computer-vision_motion-detection\cppwinform1\MyForm.h(90): warning C4101: 'valueColor': unreferenced local variable
+c:\opencv\build\include\opencv2\core\cvstd.hpp(575): warning C4793: 'cv::String::String': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(482): warning C4793: 'cv::Mat::Mat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(815): warning C4793: 'cv::Mat::release': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(2135): warning C4793: 'cv::SparseMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(3735): warning C4793: 'cv::UMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: 'cv::detail::PtrOwner::incRef': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: 'cv::detail::PtrOwner::decRef': function compiled as native:
+  	Found an intrinsic not supported in managed code
+  Microsoft (R) Incremental Linker Version 14.00.24215.1
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  "/OUT:F:\Hoc_Tap\ProjectGitHub\T2T_Computer-Vision_Motion-detection\x64\Debug\CppWinForm1.exe" /INCREMENTAL:NO /LIBPATH:C:\opencv\build\x64\vc14\lib opencv_world341.lib opencv_world341d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /ASSEMBLYRESOURCE:x64\Debug\CppWinForm1.MyForm.resources /MANIFEST "/MANIFESTUAC:level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG "/PDB:F:\Hoc_Tap\ProjectGitHub\T2T_Computer-Vision_Motion-detection\x64\Debug\CppWinForm1.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 "/ENTRY:Main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X64 x64\Debug\MyForm.obj 
+  "x64\Debug\.NETFramework,Version=v4.5.2.AssemblyAttributes.obj" 
+MyForm.obj : warning LNK4248: unresolved typeref token (01000020) for 'CvCapture'; image may not run
+  CppWinForm1.vcxproj -> F:\Hoc_Tap\ProjectGitHub\T2T_Computer-Vision_Motion-detection\x64\Debug\CppWinForm1.exe
+  CppWinForm1.vcxproj -> F:\Hoc_Tap\ProjectGitHub\T2T_Computer-Vision_Motion-detection\x64\Debug\CppWinForm1.pdb (Full PDB)
